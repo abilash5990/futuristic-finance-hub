@@ -1,0 +1,5 @@
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=financehub
+DB_USER=finance_user
+DB_PASSWORD=FinanceHub@2026
